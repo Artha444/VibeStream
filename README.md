@@ -34,4 +34,4 @@ Audio playback is for UI/demo purposes only and may not match actual songs.
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/vibestream.git
+git clone https://github.com/Artha444/VibeStream.git
